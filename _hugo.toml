@@ -1,0 +1,42 @@
+baseURL = "https://example.com/"
+title = "Hugo Theme Tailwind Example Site"
+author = "Your Name"
+copyright = "Your Name"
+paginate = 10
+languageCode = "en"
+theme = "tailwind"
+
+[params]
+  contentTypeName = "posts"
+  
+  # 添加推荐文章的配置，使用文章的路径和标题作为标识符
+  recommendedPosts = [
+    { title = "First Post", url = "/posts/post1/" },
+    { title = "Second Post", url = "/posts/post2/" },
+    { title = "Third Post", url = "/posts/post3/" }
+  ]
+
+  [params.header]
+    logo = "logo.svg"
+
+  [params.footer]
+    since = 2023
+    poweredby = true
+
+[menu]
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

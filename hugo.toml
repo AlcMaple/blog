@@ -1,0 +1,49 @@
+baseURL = "https://example.com/"
+title = "Maple Blog"
+author = "Maple"
+copyright = "Maple"
+paginate = 10
+languageCode = "en"
+theme = "tailwind"
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "logo.svg"
+
+  [params.footer]
+    since = 2024
+    poweredby = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # This allows raw HTML
+      # Other Goldmark renderer options can be added here
+
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 1

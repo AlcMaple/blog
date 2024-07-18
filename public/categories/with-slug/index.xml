@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Category with Slug on Maple Blog</title>
+    <link>http://localhost:1313/categories/with-slug/</link>
+    <description>Recent content in A Category with Slug on Maple Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Maple</copyright>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/with-slug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Process</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>&#xD;Photo by Behnam Norouzi on Unsplash&#xD;</description>
+    </item>
+  </channel>
+</rss>
