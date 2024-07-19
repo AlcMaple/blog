@@ -9,62 +9,48 @@
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Maple</copyright>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CustomTag</title>
-      <link>http://localhost:1313/tags/custom/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/tags/custom/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
+      <title>CSS</title>
       <link>http://localhost:1313/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html</title>
+      <title>HTML</title>
       <link>http://localhost:1313/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
       <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/tags/tag1/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/tags/tag1/</guid>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/react/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag2</title>
-      <link>http://localhost:1313/tags/tag2/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/tags/tag2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <title>CustomTag</title>
+      <link>http://localhost:1313/tags/custom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/custom/</guid>
       <description></description>
     </item>
   </channel>

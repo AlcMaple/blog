@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Maple Blog</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in JavaScript on Maple Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Maple</copyright>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React笔记（一）</title>
+      <link>http://localhost:1313/posts/react%E7%AC%94%E8%AE%B0%E4%B8%80/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/posts/react%E7%AC%94%E8%AE%B0%E4%B8%80/</guid>
+      <description>&lt;p&gt;本文提供了React的基础语法和基本知识点，帮助人们快速理解和上手React&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

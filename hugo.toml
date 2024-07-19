@@ -44,6 +44,6 @@ series = "series"
       # Other Goldmark renderer options can be added here
 
   [markup.tableOfContents]
-    endLevel = 6
+    endLevel = 1
     ordered = false
     startLevel = 1
